@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+	<paciente>
+		<nome>Kleber Renato</nome>
+		<sexo>M</sexo>
+		<peso>79.7</peso>
+		<idade>49</idade>
+		<altura>1.73</altura>
+	</paciente>
+	<paciente>
+		<nome>Andrea Batista</nome>
+		<sexo>F</sexo>
+		<peso>70.1</peso>
+		<idade>49</idade>
+		<altura>1.65</altura>
+	</paciente>
+	<paciente>
+		<nome>Kleber Rodrigo</nome>
+		<sexo>M</sexo>
+		<peso>61.2</peso>
+		<idade>30</idade>
+		<altura>1.71</altura>
+	</paciente>
+	<paciente>
+		<nome>Marcos Aurélio</nome>
+		<sexo>M</sexo>
+		<peso>72.8</peso>
+		<idade>28</idade>
+		<altura>1.68</altura>
+	</paciente>
+	<paciente>
+		<nome>Andressa Cristine</nome>
+		<sexo>F</sexo>
+		<peso>54.1</peso>
+		<idade>25</idade>
+		<altura>1.57</altura>
+	</paciente>
+	<paciente>
+		<nome>Lucas Xavier</nome>
+		<sexo>M</sexo>
+		<peso>57.9</peso>
+		<idade>23</idade>
+		<altura>1.62</altura>
+	</paciente>
+	<paciente>
+		<nome>fim</nome>
+	</paciente>
+</pacientes>

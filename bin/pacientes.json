@@ -1,0 +1,49 @@
+{
+  "pacientes": [
+    {
+      "nome": "Kleber Renato",
+      "sexo": "M",
+      "peso": "79.7",
+      "idade": "49",
+      "altura": "1.73"
+    },
+    {
+      "nome": "Andrea Batista",
+      "sexo": "F",
+      "peso": "70.1",
+      "idade": "49",
+      "altura": "1.65"
+    },
+    {
+      "nome": "Kleber Rodrigo",
+      "sexo": "M",
+      "peso": "61.2",
+      "idade": "30",
+      "altura": "1.71"
+    },
+    {
+      "nome": "Marcos Aurélio",
+      "sexo": "M",
+      "peso": "72.8",
+      "idade": "28",
+      "altura": "1.68"
+    },
+    {
+      "nome": "Andressa Cristine",
+      "sexo": "F",
+      "peso": "54.1",
+      "idade": "25",
+      "altura": "1.57"
+    },
+    {
+      "nome": "Lucas Xavier",
+      "sexo": "M",
+      "peso": "57.9",
+      "idade": "23",
+      "altura": "1.62"
+    },
+    {
+      "nome": "fim"
+    }
+  ]
+}
